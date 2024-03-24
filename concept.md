@@ -1,0 +1,3 @@
+- **Project Idea**: In-depth explanation of QuizChain, including the motivation behind the project, its goals, and the problem it aims to solve.
+- **Value Proposition**: Discuss how QuizChain differentiates itself from existing educational platforms, emphasizing the integration of blockchain for rewards and engagement.
+- **Target Audience**: Define the primary users of QuizChain and how they can benefit from the platform.

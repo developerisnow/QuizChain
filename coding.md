@@ -1,0 +1,6 @@
+- **Coding Standards and Practices**: Overview of the coding guidelines followed in the project to ensure consistency and quality.
+- **Technology Stack**:
+  - Frontend: Frames.js, AirStack
+  - Blockchain: Solidity for smart contracts on Base and Optimism, Pinata for IPFS, Livepeer for video streaming, The Graph for analytics
+  - Backend: Node.js, Express for API development
+- **Planned Features and Functionalities**: Detail future enhancements and features planned for QuizChain, such as additional quiz categories, partnership with educational content creators, and more advanced reward mechanisms.

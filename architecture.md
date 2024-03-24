@@ -1,0 +1,10 @@
+- **System Architecture Overview**: High-level description of QuizChain's architecture, including frontend, backend, blockchain integration, and third-party services.
+- **Key Components Description**:
+  - Frontend: Built with Frames.js and AirStack, highlighting responsive design and user experience.
+  - Backend: Server setup, database management, and API integrations.
+  - Blockchain Integration: Smart contract functions for quizzes, NFT minting, and rewards distribution.
+- **UML Diagrams**:
+  - **Sequence Diagram**: Illustrates the process flow from watching a video, taking a quiz, to receiving NFT rewards.
+  - **Use Case Diagram**: Outlines the interactions between different types of users and the system.
+  - **Component Diagram**: Shows the major components of QuizChain and their interconnections.
+  - **Activity Diagram**: Depicts the steps involved in completing a quiz and earning rewards.
