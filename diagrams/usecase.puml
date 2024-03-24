@@ -1,0 +1,13 @@
+@startuml
+left to right direction
+:user: as User
+(Watch Educational Videos) as (Watch)
+(Take Quizzes) as (Quizzes)
+(Earn NFTs) as (Earn)
+(View Leaderboard) as (Leaderboard)
+
+User -- (Watch)
+User -- (Quizzes)
+User -- (Earn)
+User -- (Leaderboard)
+@enduml

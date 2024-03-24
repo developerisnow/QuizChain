@@ -1,0 +1,15 @@
+@startuml
+package "QuizChain Platform" {
+  [Quiz Interface] as Quiz
+  [Blockchain Integration] as Blockchain
+  [NFT Rewards System] as NFT
+  [Leaderboard] as Leaderboard
+  [Video Streaming] as Video
+}
+
+[User Interface] ..> Quiz
+Quiz ..> Blockchain : Uses
+Blockchain ..> NFT : Mints
+Quiz ..> Leaderboard : Updates
+Quiz ..> Video : Streams
+@enduml

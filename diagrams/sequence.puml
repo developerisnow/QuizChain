@@ -1,0 +1,12 @@
+@startuml
+participant User
+participant "Quiz Interface" as Quiz
+participant "Blockchain" as Blockchain
+participant "NFT Rewards" as NFT
+
+User -> Quiz: Watch Video
+User -> Quiz: Take Quiz
+Quiz -> Blockchain: Verify Answers
+Blockchain -> NFT: Mint NFT
+NFT -> User: Award NFT
+@enduml

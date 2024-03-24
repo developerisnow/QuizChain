@@ -4,7 +4,7 @@
   - Backend: Server setup, database management, and API integrations.
   - Blockchain Integration: Smart contract functions for quizzes, NFT minting, and rewards distribution.
 - **UML Diagrams**:
-  - **Sequence Diagram**: Illustrates the process flow from watching a video, taking a quiz, to receiving NFT rewards.
-  - **Use Case Diagram**: Outlines the interactions between different types of users and the system.
-  - **Component Diagram**: Shows the major components of QuizChain and their interconnections.
-  - **Activity Diagram**: Depicts the steps involved in completing a quiz and earning rewards.
+  - **Sequence Diagram**: Illustrates the process flow from watching a video, taking a quiz, to receiving NFT rewards. ![Sequence Diagram](url_to_sequence_diagram_image)
+  - **Use Case Diagram**: Outlines the interactions between different types of users and the system. ![Use Case Diagram](url_to_use_case_diagram_image)
+  - **Component Diagram**: Shows the major components of QuizChain and their interconnections. ![Component Diagram](url_to_component_diagram_image)
+  - **Activity Diagram**: Depicts the steps involved in completing a quiz and earning rewards. ![Activity Diagram](url_to_activity_diagram_image)

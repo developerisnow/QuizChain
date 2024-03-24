@@ -1,0 +1,12 @@
+@startuml
+start
+:Watch Educational Video;
+:Take Quiz;
+if ("Quiz Passed?") then (yes)
+  :Mint NFT Reward;
+else (no)
+  :Try Again;
+endif
+:View Leaderboard;
+stop
+@enduml
